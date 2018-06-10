@@ -1,6 +1,6 @@
 # Stranger things alphabet display
 
-An Arduino-powered LED display for encoding secret messages in Stranger Things style!
+An Arduino-powered LED display for encoding secret messages inspired by Stranger Things!
 
 ![image](https://amp.businessinsider.com/images/59c1236138d20d2a008b7e64-960-480.jpg "image")
 
@@ -26,3 +26,11 @@ An Arduino-powered LED display for encoding secret messages in Stranger Things s
 - support blinking 0-9
 
 
+## Future ideas
+- handle multiplexing inputs to support all A-Z
+- pass messages through web server? instead of serial monitor
+- plans for Twitch channel and Twitch bot inputs
+
+
+## Related ideas
+- programmable music box, ala [Wintergatan](https://www.youtube.com/watch?v=IvUU8joBb1Q)
