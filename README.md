@@ -7,6 +7,7 @@ An Arduino-powered LED display for encoding secret messages inspired by Stranger
 ### Arduino project specifications
 - each letter has an LED
 - secret message blinks lights sequentially
+- supports Arduino Uno and Due (for Due, check out the due branch)
 
 ### Project details
 - A-H (8 letters) in first row
@@ -18,8 +19,6 @@ An Arduino-powered LED display for encoding secret messages inspired by Stranger
 ### Challenges
 - Arduino uno only has 14 digital pins
   - Solution: multiplex with shift register?
-
-
 
 ## Step 1
 - digits only
